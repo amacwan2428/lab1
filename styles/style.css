@@ -1,6 +1,43 @@
 body{
-	background-color: black;
+
+font-size:16px;	
+
 }
-h1,p{
-	background-color: orangered;
+
+.outer{
+	background-color:beige;
+	margin:5% auto;
+	width:90%;
+	max-height:90%;
+	border-style:solid;
+	padding:10px;
+	padding-top:0px;
+	
+	padding-bottom:0px;
+	text-align:center;
+}
+h1,h2{
+	margin:5px;
+	padding:0;
+}
+.inner{
+	background-color:antiquewhite;
+	border-style:solid;
+	padding: 10px;
+	margin: 10px;
+	margin-bottom:0px;
+	
+}
+
+
+.img{
+	border-style:solid;
+	border-width:10px;
+	width:10%;
+	height:10%;
+}
+
+hr {
+	width: 12%;
+	border-top: 5px dashed;
 }
