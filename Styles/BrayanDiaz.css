@@ -3,6 +3,14 @@ body{
     text-align: center;
 }
 
-#divPar{
+.divPar{
     border-style: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.divPar2{
+    border-style: solid;
+    margin-left: 10px;
+    margin-right: 10px;
 }
