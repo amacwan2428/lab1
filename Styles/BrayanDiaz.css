@@ -2,3 +2,7 @@ body{
     background-color: gainsboro;
     text-align: center;
 }
+
+#divPar{
+    border-style: solid;
+}
